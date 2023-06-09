@@ -22,6 +22,9 @@ O projeto fullstack tratase de um app de monitoramento de hábitos com calendár
 <li>Axios</li>
 </ul>
 
+<img src="./images/web1.png" style="margin: 16px 64px"/>
+<img src="./images/web2.png" style="margin: 16px 64px"/>
+
 <h3>📱 Mobile:</h3>
 <ul>
 <li>TypeScript</li>
@@ -31,6 +34,8 @@ O projeto fullstack tratase de um app de monitoramento de hábitos com calendár
 <li>React Native Reanimated</li>
 <li>Axios</li>
 </ul>
+<img src="./images/mobile1.png" style="margin: 16px 64px"/>
+<img src="./images/mobile2.png" style="margin: 16px 64px"/>
 
 <h2>📌 Funcionalidades</h2>
 <ul>
